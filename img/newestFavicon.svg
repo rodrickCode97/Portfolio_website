@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" style="margin: auto; background: none; display: block; shape-rendering: auto;" width="127" height="96" preserveAspectRatio="xMidYMid">
+<style type="text/css">
+  text {
+    text-anchor: middle; font-size: 80px; opacity: 0;
+  }
+</style>
+<g style="transform-origin:63.5px 48px;transform:scale(1)">
+<g transform="translate(63.5,48)">
+  <g transform="translate(0,0)"><g class="path" style="transform: rotate(0deg); transform-origin: -23.285px -6.4224px; animation: 1s linear -0.33s infinite normal forwards running smash-51032aab-3a1a-4169-a9d3-6fe50bd26821;"><path d="M17.11-53.52L29.14-53.52L29.14-53.52Q33.09-53.52 36.29-52.34L36.29-52.34L36.29-52.34Q39.49-51.17 41.74-49.14L41.74-49.14L41.74-49.14Q43.98-47.11 45.20-44.39L45.20-44.39L45.20-44.39Q46.41-41.68 46.41-38.63L46.41-38.63L46.41-14.88L46.41-14.88Q46.41-11.84 45.20-9.12L45.20-9.12L45.20-9.12Q43.98-6.41 41.74-4.38L41.74-4.38L41.74-4.38Q39.49-2.34 36.29-1.17L36.29-1.17L36.29-1.17Q33.09 0 29.14 0L29.14 0L17.11 0L17.11 0Q13.16 0 9.96-1.17L9.96-1.17L9.96-1.17Q6.76-2.34 4.51-4.38L4.51-4.38L4.51-4.38Q2.27-6.41 1.05-9.12L1.05-9.12L1.05-9.12Q-0.16-11.84-0.16-14.88L-0.16-14.88L-0.16-38.63L-0.16-38.63Q-0.16-41.68 1.05-44.39L1.05-44.39L1.05-44.39Q2.27-47.11 4.51-49.14L4.51-49.14L4.51-49.14Q6.76-51.17 9.96-52.34L9.96-52.34L9.96-52.34Q13.16-53.52 17.11-53.52L17.11-53.52zM30.55-29.45L31.13-27.34L31.13-17.70L35.27-17.70L35.27-27.77L33.91-31.37L29.45-32.97L33.75-35.04L34.96-38.55L34.96-42.89L34.49-46.17L31.91-49.45L28.01-50L13.44-50L13.44-17.70L17.62-17.70L17.62-30.70L27.77-30.70L30.55-29.45zM17.62-45.86L27.77-45.86L30.55-44.65L30.82-42.38L30.82-38.24L30.23-36.09L27.77-34.88L17.62-34.88L17.62-45.86" fill="#329309" stroke="none" stroke-width="none" transform="translate(-46.4100341796875,20.337601623535157)" style="fill: rgb(50, 147, 9);"></path></g><g class="path" style="transform: rotate(0deg); transform-origin: 22.965px -6.4224px; animation: 1s linear 0s infinite normal forwards running smash-51032aab-3a1a-4169-a9d3-6fe50bd26821;"><path d="M80.82-17.70L80.82-21.76L66.09-21.76L79.92-46.56L78.32-50L61.60-50L61.60-45.86L74.80-45.86L60.98-21.05L62.27-17.70L80.82-17.70zM63.36-53.52L75.39-53.52L75.39-53.52Q79.34-53.52 82.54-52.34L82.54-52.34L82.54-52.34Q85.74-51.17 87.99-49.14L87.99-49.14L87.99-49.14Q90.23-47.11 91.45-44.39L91.45-44.39L91.45-44.39Q92.66-41.68 92.66-38.63L92.66-38.63L92.66-14.88L92.66-14.88Q92.66-11.84 91.45-9.12L91.45-9.12L91.45-9.12Q90.23-6.41 87.99-4.38L87.99-4.38L87.99-4.38Q85.74-2.34 82.54-1.17L82.54-1.17L82.54-1.17Q79.34 0 75.39 0L75.39 0L63.36 0L63.36 0Q59.41 0 56.21-1.17L56.21-1.17L56.21-1.17Q53.01-2.34 50.76-4.38L50.76-4.38L50.76-4.38Q48.52-6.41 47.30-9.12L47.30-9.12L47.30-9.12Q46.09-11.84 46.09-14.88L46.09-14.88L46.09-38.63L46.09-38.63Q46.09-41.68 47.30-44.39L47.30-44.39L47.30-44.39Q48.52-47.11 50.76-49.14L50.76-49.14L50.76-49.14Q53.01-51.17 56.21-52.34L56.21-52.34L56.21-52.34Q59.41-53.52 63.36-53.52L63.36-53.52" fill="#329309" stroke="none" stroke-width="none" transform="translate(-46.4100341796875,20.337601623535157)" style="fill: rgb(79, 188, 32);"></path></g></g>
+</g>
+</g>
+<style id="smash-51032aab-3a1a-4169-a9d3-6fe50bd26821" data-anikit="">@keyframes smash-51032aab-3a1a-4169-a9d3-6fe50bd26821
+{
+  0% {
+    animation-timing-function: cubic-bezier(0.3385,0.332,0.6667,0.6667);
+    transform: rotate(0deg);
+  }
+  40.8% {
+    animation-timing-function: cubic-bezier(0.3316,0.3338,0.5714,1.3045);
+    transform: rotate(24.48deg);
+  }
+  48.5% {
+    animation-timing-function: cubic-bezier(0.9673,0.2776,0.6667,0.6667);
+    transform: rotate(29.07deg);
+  }
+  51% {
+    animation-timing-function: cubic-bezier(0.1933,0.2947,-0.0572,0.7191);
+    transform: rotate(25.38deg);
+  }
+  60.8% {
+    animation-timing-function: cubic-bezier(0.0583,2.8507,0.8558,1);
+    transform: rotate(0.54deg);
+  }
+  100% {
+    transform: rotate(0deg);
+  }
+}</style></svg>
