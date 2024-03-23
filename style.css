@@ -1,20 +1,32 @@
 @import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&display=swap');
 
-h1, .h1,
-h2, .h2,
-h3, .h3,
-h4, .h4,
+h1,
+.h1,
+h2,
+.h2,
+h3,
+.h3,
+h4,
+.h4,
 blockquote {
   font-family: 'DM Serif Display', serif;
 }
 
-h1, .h1 {
+body {
+  background-color: rgb(46, 46, 46);
+  color: rgb(159, 158, 158);
+}
+
+h1,
+.h1 {
   font-size: 65px;
 }
 
-h2, .h2 {
+h2,
+.h2 {
   font-size: 45px;
 }
+
 
 img {
   max-width: 100%;
@@ -24,7 +36,8 @@ blockquote {
   font-size: 28px;
 }
 
-sup, .sup {
+sup,
+.sup {
   text-transform: uppercase;
   font-weight: 600;
   font-size: 16px;
@@ -54,20 +67,42 @@ sup, .sup {
   padding: 1px 0px;
 }
 
-.section-inverse > div {
+.section-inverse>div {
   margin-top: -180px;
 }
 
 .card-footer {
-  background-color: white;
+  background-color: rgb(46, 46, 46);
   padding: 1rem 1rem;
 }
 
 .background-image {
   background-position: center center;
   background-size: cover;
+ 
 }
 
+.card_class{
+  border: 4px solid rgb(108, 108, 108);
+  border-radius: 5px; 
+}
+
+.svg{
+  background-image: url(./img/stacked-waves-haikei.svg);
+  background-size: cover;
+  background-position: center;
+
+}
+.blob_svg{
+  background-image: url(./img/blob-scene-haikei\ \(1\).svg);
+  background-size: cover;
+  background-position: center;
+}
+
+.circle_svg{
+  background-image: url(./img/blob-scatter-haikei\ \(1\).svg);
+  background-size: cover;
+}
 .navbar-light .navbar-nav .nav-link {
   text-transform: uppercase;
   padding-right: 1rem;
@@ -108,11 +143,13 @@ header.p-section {
   padding: .65rem 1.5rem;
 }
 
-.btn-group-lg>.btn, .btn-lg {
+.btn-group-lg>.btn,
+.btn-lg {
   padding: .75rem 2rem;
 }
 
-.btn-group-sm>.btn, .btn-sm {
+.btn-group-sm>.btn,
+.btn-sm {
   padding: .30rem .75rem;
 }
 
@@ -138,7 +175,7 @@ header.p-section {
 
 .marker-highlight:before {
   content: "";
-  background-color: #0b6efd87;
+  background-color: #1dc11a87;
   width: 102%;
   height: 0.2em;
   position: absolute;
